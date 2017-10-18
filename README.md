@@ -3,7 +3,7 @@
 [Задания квалификационного раунда на сайте RussianCodeCup.ru](http://www.russiancodecup.ru/ru/tasks/round/6/)
 
 * **A** Конкатенация строк  [concat](./concat)
-* **B** Тарифы  
+* **B** Тарифы  [billing](./billing)
 * **С** К-сортировка  
 * **D** Рельсы  
 * **E** Угадай число  
