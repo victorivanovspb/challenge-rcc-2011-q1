@@ -75,7 +75,7 @@ p<sub>i</sub> (0 ≤ p<sub>i</sub> ≤ 1000).
 | 600                |                 |  
 
 
-## Решение {#solution}
+<a name="solution"></a><h2>Решение</h2>
 <dl>
     <dt>Решение</dt>
     <dd>
